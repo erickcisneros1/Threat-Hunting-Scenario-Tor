@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Erick Cisneros Ruballos
-- **Author Contact**: https://www.linkedin.com/in/erickcisneros1/
+- **Author Contact**: https://www.linkedin.com/in/erickcr1/
 - **Date**: April 27, 2025
 
 ## Validated By:
